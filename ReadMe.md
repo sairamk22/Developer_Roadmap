@@ -320,7 +320,6 @@ Idea from : [React Developer RoadMap](https://github.com/adam-golab/react-develo
 Want to contribute? We encourage community feedback and contributions. Please follow our [contributing guidelines](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap/blob/master/CONTRIBUTING.md).
 
 ## Credits
-
 ### Backers
 
 Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/AspNetCore-Developer-Roadmap#backer)]
